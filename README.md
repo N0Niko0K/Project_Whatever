@@ -1,2 +1,2 @@
 # Project_Whatever
-Honestly... This is useless file now
+Just a college practice things, nothing much important
